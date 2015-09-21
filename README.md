@@ -1,3 +1,4 @@
+```
 #---------------------------------------------------------------------------------------------------------------------
 # auteur: ledudulela 
 # objet: Conversion de vidéo avec liste de choix possibles (codecs+dimensions) 
@@ -10,4 +11,4 @@
 # avconvzen chemin_du_fichier 
 # avconvzen -h : affiche l'aide sur les différents paramètres possibles du script
 #---------------------------------------------------------------------------------------------------------------------
-
+```
