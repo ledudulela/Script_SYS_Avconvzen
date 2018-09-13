@@ -40,3 +40,5 @@ voir aussi:
 comment exécuter avconvzen depuis le gestionnaire de fichiers Caja : 
 https://github.com/ledudulela/Script_CAJA_Avconvzen
 
+comment exécuter avconvzen depuis le gestionnaire de fichiers Nemo : 
+https://github.com/ledudulela/Script_NEMO_Avconvzen
